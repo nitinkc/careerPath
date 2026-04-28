@@ -1,0 +1,79 @@
+site_name: Developer → CTO Career Journey
+site_author: Tech Career Path
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: teal
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - toc.follow
+    - content.code.copy
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+  - tables
+
+nav:
+  - Home: index.md
+  - Getting Started: GETTING_STARTED.md
+
+  - Fundamentals:
+    - Engineer Levels Overview: fundamentals/01-engineer-levels.md
+    - Junior Engineer (Years 0-2): fundamentals/02-junior-engineer.md
+    - Mid-Level Engineer (Years 2-5): fundamentals/03-mid-level-engineer.md
+    - Senior Engineer (Years 5-8): fundamentals/04-senior-engineer.md
+
+  - Intermediate:
+    - IC vs Manager Track: intermediate/01-ic-vs-manager-track.md
+    - Staff Engineer Path: intermediate/02-staff-engineer.md
+    - Engineering Manager Path: intermediate/03-engineering-manager.md
+    - Tech Lead Role: intermediate/04-tech-lead.md
+
+  - Advanced:
+    - Director of Engineering: advanced/01-director-of-engineering.md
+    - VP Engineering: advanced/02-vp-engineering.md
+    - Chief Technology Officer: advanced/03-cto-role.md
+    - Board-Level Decision Making: advanced/04-board-level-thinking.md
+
+  - Reference:
+    - Essential Books: reference/01-essential-books.md
+    - Learning Resources: reference/02-learning-resources.md
+    - Interview Prep: reference/03-interview-prep.md
+    - Tools & Frameworks: reference/04-tools-frameworks.md
+
+extra_javascript:
+  - js/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
+  - js/mermaid-init.js
+  - js/theme-toggle.js
+
+extra_css:
+  - css/extra.css
+
+plugins:
+  - search
