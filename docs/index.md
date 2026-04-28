@@ -8,17 +8,17 @@
 
 This guide maps the **entire career journey** from Junior Engineer to Chief Technology Officer, with clear expectations at each level:
 
-| Level | Years | Role Focus | Level |
-|---|---|---|---|
-| **Junior Engineer** | 0–2 | Learning fundamentals, shipping code | 🟢 Beginner |
-| **Mid-Level Engineer** | 2–5 | Owning features, mentoring juniors | 🟡 Intermediate |
-| **Senior Engineer** | 5–8 | System design, cross-team impact | 🟡 Intermediate |
-| **Staff Engineer** | 8–12 | Technical strategy, org influence (IC) | 🔴 Advanced |
-| **Tech Lead** | 5–10 | Technical + people leadership (hybrid) | 🟡 Intermediate |
-| **Engineering Manager** | 5–12 | Team building, hiring, people growth | 🟡 Intermediate |
-| **Director** | 10–15 | Multi-team strategy, budget & goals | 🔴 Advanced |
-| **VP Engineering** | 12–18 | Engineering org strategy, exec team | 🔴 Advanced |
-| **CTO** | 15+ | Technology vision, board decisions | 🔴 Expert |
+| Level                   | Years | Role Focus                             | Level           |
+|:------------------------|:------|:---------------------------------------|:----------------|
+| **Junior Engineer**     | 0–2   | Learning fundamentals, shipping code   | 🟢 Beginner     |
+| **Mid-Level Engineer**  | 2–5   | Owning features, mentoring juniors     | 🟡 Intermediate |
+| **Senior Engineer**     | 5–8   | System design, cross-team impact       | 🟡 Intermediate |
+| **Staff Engineer**      | 8–12  | Technical strategy, org influence (IC) | 🔴 Advanced     |
+| **Tech Lead**           | 5–10  | Technical + people leadership (hybrid) | 🟡 Intermediate |
+| **Engineering Manager** | 5–12  | Team building, hiring, people growth   | 🟡 Intermediate |
+| **Director**            | 10–15 | Multi-team strategy, budget & goals    | 🔴 Advanced     |
+| **VP Engineering**      | 12–18 | Engineering org strategy, exec team    | 🔴 Advanced     |
+| **CTO**                 | 15+   | Technology vision, board decisions     | 🔴 Expert       |
 
 ---
 
@@ -64,6 +64,7 @@ graph TD
 
 ### 1. **The Two Valid Paths Are Equally Valuable**
 You can become CTO either as:
+
 - **IC Path**: Deep technical expertise + strategic influence (Principal Engineer → CTO)
 - **Management Path**: Building teams + business alignment (Manager → VP Engineering → CTO)
 
@@ -80,6 +81,7 @@ Your company's titles may differ, but the *expectations* are the same. A "Senior
 
 ### 4. **No Straight Line**
 Real careers have:
+
 - Lateral moves (Senior Engineer → Tech Lead, back to Senior)
 - Company changes (skill growth + market changes)
 - Specialization shifts (backend → data → infrastructure)
@@ -92,6 +94,7 @@ All are normal. Plan for multiple 5-year chapters, not one rigid path.
 ## 🎓 Why This Guide Exists
 
 Most engineers don't know:
+
 - What "Senior" actually means at a company
 - How to prepare for Staff/Director/CTO interviews
 - What books to read at each stage

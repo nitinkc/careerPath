@@ -69,8 +69,6 @@
 *[Burn Rate]: How fast company spends cash
 *[Runway]: Months of cash remaining at current burn rate
 *[Due Diligence]: Evaluation of company before acquisition or investment
-*[Due Diligence]: Evaluation of company before acquisition or investment
-*[Technical Debt]: Code/architecture issues that are "paid back" later
 *[Refactoring]: Restructuring code without changing external behavior
 *[Legacy Code]: Old code that's hard to understand or change
 *[Code Quality]: Measure of how well code is written
